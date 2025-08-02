@@ -1,4 +1,4 @@
-# Solana PumpFun 狙击机器人使用教程
+# Solana PumpFun 土狗币 迷因币 狙击机器人
 
 [![a-striking-product-shot-advertisement-fo-o-V66-Rj-Zk-Sqm-Wjx-1-TJZONQ-RFQCs7jv-SGG3j-Pd-Xp-I-1s-Q.jpg](https://i.postimg.cc/136zNRcY/a-striking-product-shot-advertisement-fo-o-V66-Rj-Zk-Sqm-Wjx-1-TJZONQ-RFQCs7jv-SGG3j-Pd-Xp-I-1s-Q.jpg)](https://postimg.cc/fVzsGNPx)
 
