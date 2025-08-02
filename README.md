@@ -4,7 +4,7 @@
 
 =========
 
-![Build](https://img.shields.io/badge/Built%20with-Python-Blue)![License](https://img.shields.io/badge/license-GNU_General_Public_License-_red.svg)![Stars](https://img.shields.io/github/stars/maurosoria/dirsearch.svg)[![Release](https://img.shields.io/github/release/maurosoria/dirsearch.svg)](https://github.com/maurosoria/dirsearch/releases)[![Sponsors](https://img.shields.io/github/sponsors/maurosoria)](https://github.com/sponsors/maurosoria)[![Discord](https://img.shields.io/discord/992276296669339678.svg?logo=discord)]()[![Twitter](https://img.shields.io/twitter/follow/_dirsearch?label=Follow)]()
+![Build](https://img.shields.io/badge/Built%20with-Python-Blue)![License](https://img.shields.io/badge/license-GNU_General_Public_License-_red.svg)![Stars](https://img.shields.io/github/stars/maurosoria/dirsearch.svg)[![Release](https://img.shields.io/github/release/maurosoria/dirsearch.svg)]()[![Sponsors](https://img.shields.io/github/sponsors/maurosoria)](https://github.com/sponsors/maurosoria)[![Discord](https://img.shields.io/discord/992276296669339678.svg?logo=discord)]()[![Twitter](https://img.shields.io/twitter/follow/_dirsearch?label=Follow)]()
 
 ## 📋 目录
 
