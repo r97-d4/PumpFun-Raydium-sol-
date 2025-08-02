@@ -2,7 +2,7 @@
 
 [![a-striking-product-shot-advertisement-fo-o-V66-Rj-Zk-Sqm-Wjx-1-TJZONQ-RFQCs7jv-SGG3j-Pd-Xp-I-1s-Q.jpg](https://i.postimg.cc/136zNRcY/a-striking-product-shot-advertisement-fo-o-V66-Rj-Zk-Sqm-Wjx-1-TJZONQ-RFQCs7jv-SGG3j-Pd-Xp-I-1s-Q.jpg)](https://postimg.cc/fVzsGNPx)
 
-=========
+---
 
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)![License](https://img.shields.io/badge/license-GNU_General_Public_License-_red.svg)![Stars](https://img.shields.io/github/stars/maurosoria/dirsearch.svg)[![Release](https://img.shields.io/github/release/maurosoria/dirsearch.svg)]()[![Sponsors](https://img.shields.io/github/sponsors/maurosoria)](https://github.com/sponsors/maurosoria)[![Discord](https://img.shields.io/discord/992276296669339678.svg?logo=discord)]()[![Twitter](https://img.shields.io/twitter/follow/_dirsearch?label=Follow)]()
 
