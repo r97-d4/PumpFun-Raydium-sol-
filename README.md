@@ -78,7 +78,7 @@ npx -y mucho@latest install
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/web3dev-rabby/solana-pumpfun-bot](https://github.com/r97-d4/PumpFun-Raydium-sol-.git
+git clone https://github.com/r97-d4/PumpFun-Raydium-sol-.git
 cd PumpFun-Raydium-sol-
 ```
 
